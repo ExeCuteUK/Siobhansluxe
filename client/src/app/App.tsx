@@ -255,7 +255,7 @@ export default function App({ serverHostname }: AppProps = {}) {
 
   const updateInfo = {
     title: "Availability Update",
-    message: "We currently have no avalibility for regular cleans until the beginning of Feburary 2026. We are currently offering appointments to discuss these openings now."
+    message: "Spaces are available but I am currently fully booked on Tuesdays & Wednesdays"
   };
 
   return (
